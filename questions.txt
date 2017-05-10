@@ -1,0 +1,7 @@
+What's recursion?
+
+What are the different parts of a recursive function?
+
+What's a stack?
+
+What's a call stack?
